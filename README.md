@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamrajharshit
 - 👀 I’m interested in new Algorithms , Python.
 - 🌱 I’m currently learning DS in C and introduciton to ML.  
-- 💞️ I’m looking to collaborate on non.
+- 💞️ I’m looking to collaborate on not yet.
 - 📫 How to reach me :
      Gmail id: iamrajharshit@gmail.com
      
