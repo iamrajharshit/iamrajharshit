@@ -27,7 +27,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-   <img src="" title="Skitlearn" alt="Skitlearn" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" title="Sickit-learn" alt="Sickit-learn" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
    <img src="" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
     
@@ -35,14 +35,14 @@
 
 
 ## About ME 🤸‍♂️:                                                                                                   
-- 👀 I’m interested in new Algorithms , Python.
+- 👀 I’m interested in new Algorithms,Python.
 - 🌱 I’m currently learning DS in C and introduciton to ML.  
 - 💞️ I’m looking to collaborate on not yet.
 - 📫 Gmail id: iamrajharshit@gmail.com
 - 🔊 Social media handle: @iamrajharshit 
 
 
-## My Stat 📈:
+## My Stats📈:
 <div>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=iamrajharshit&theme=dark&background=000000">
 </div>
