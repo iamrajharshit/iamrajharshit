@@ -19,11 +19,11 @@
    
 ## Tools 🧰:
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+   <img src="" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/numpy-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/python_pandas_lines.png" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
