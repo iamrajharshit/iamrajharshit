@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-     <p><h1><center>👋 Hi, I’m @iamrajharshit</center></h1></p>
+     <p><h1><center>👋 Hi, I’m Harshit Raj</center></h1></p>
 </div>
 
 <div id="badges">
