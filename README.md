@@ -49,8 +49,6 @@
 <div>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=iamrajharshit&theme=dark&background=000000"/>
    <img src="https://github-readme-stats.vercel.app/api?username=iamrajharshit"/>
-   <img src="https://github.com/iamrajharshit/github-readme-stats"/>
-   
 </div>
 <!---
 iamrajharshit/iamrajharshit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
