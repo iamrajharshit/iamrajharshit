@@ -28,9 +28,9 @@
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/python_pandas_lines.png" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/scikit-learn-logo-without-subtitle.svg" title="Sickit-learn" alt="Sickit-learn" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/matplotlib.png" title="Matplotly" alt="Matplotly" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/icon-dash_plotly.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/matplotlib.png" title="Matplotly" alt="Matplotly" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/icon-dash_plotly.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/streamlit_red.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
    
     
