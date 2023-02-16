@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400" height="400/>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM1OWIzNzNhNWE0MWJlMWI2NGJlZGVhNWRiM2I2ZmMwYTRlM2FhYiZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="400" height="400/>
    <p><h1><center>👋 Hi, I’m Harshit Raj</center></h1></p>
    <hr>
 </div>
