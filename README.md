@@ -20,18 +20,18 @@
 ## Tools 🧰:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/numpy-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/python_pandas_lines.png" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" title="Sickit-learn" alt="Sickit-learn" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/scikit-learn-logo-without-subtitle.svg" title="Sickit-learn" alt="Sickit-learn" width="40" height="40"/>&nbsp;
     <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/matplotlib.png" title="Matplotly" alt="Matplotly" width="40" height="40"/>&nbsp;
     <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/icon-dash_plotly.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/streamlit_red.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
    
     
 </div> 
