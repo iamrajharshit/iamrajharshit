@@ -1,9 +1,9 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM1OWIzNzNhNWE0MWJlMWI2NGJlZGVhNWRiM2I2ZmMwYTRlM2FhYiZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="350" height="350/>
-   <p><h1><center>👋 Hi, I’m Harshit Raj</center></h1></p>
 </div>
-
 <div id="badges">
+<p><h1><center>👋 Hi, I’m Harshit Raj</center></h1></p><br>
+<h2 align="left"><b>Social Linkes:</b></h2>
    <p><center><img src="https://komarev.com/ghpvc/?username=iamrajharshit&style=flat-square&color=blue" alt=""/>
     <a href="https://www.linkedin.com/in/iamrajharshit/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,9 +31,7 @@
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/matplotlib.png" title="Matplotly" alt="Matplotly" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/icon-dash_plotly.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/streamlit_red.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
-   
-    
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/streamlit_red.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;    
 </div> 
 
 
