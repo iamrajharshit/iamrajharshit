@@ -49,7 +49,12 @@
 <div>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=iamrajharshit&theme=dark&background=000000"/>
    <img src="https://github-readme-stats.vercel.app/api?username=iamrajharshit"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajharshit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
+
+
+## GitHub Trophies 🏆:
+![](https://github-profile-trophy.vercel.app/?username=iamrajharshit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!---
 iamrajharshit/iamrajharshit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your change.
