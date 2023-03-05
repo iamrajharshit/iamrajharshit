@@ -56,8 +56,7 @@
 ## GitHub Trophies 🏆:
 ![](https://github-profile-trophy.vercel.app/?username=iamrajharshit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!---
-iamrajharshit/iamrajharshit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your change.
+Shortcut drafts
 pandas icon: https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg
 
 -->
