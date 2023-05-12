@@ -33,6 +33,8 @@
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/icon-dash_plotly.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/streamlit_red.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
    <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/scrapy-logo.png" title="Scrapy" alt="Scrapy" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/iamrajharshit/iamrajharshit/blob/main/icons/Beautifulsoup.jpg" title="Beautifulsoup" alt="Beautifulsoup" width="40" height="40"/>&nbsp;                                                                                                                                            
+                                                                                                                                               
 </div> 
 
 
