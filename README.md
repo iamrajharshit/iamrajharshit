@@ -2,7 +2,7 @@
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM1OWIzNzNhNWE0MWJlMWI2NGJlZGVhNWRiM2I2ZmMwYTRlM2FhYiZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="350" height="350/>
 </div>
 <div id="badges">
-<p><h1><center>👋 Hi, I’m Harshit Raj</center></h1></p><br>
+<p><h1><center>👋 Hi, I’m Raj Harshit </center></h1></p><br>
 <h2 align="left"><b>Social Linkes:</b></h2>
    <p><center><img src="https://komarev.com/ghpvc/?username=iamrajharshit&style=flat-square&color=blue" alt=""/>
     <a href="https://www.linkedin.com/in/iamrajharshit/">
