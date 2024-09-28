@@ -58,6 +58,11 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajharshit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
+## 📊 LeetCode Statistics:
+
+<!--![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=ArushiN4&theme=dark)-->
+![Leetcode Statistics](https://leetcard.jacoblin.cool/iamrajharshit?theme=dark&ext=heatmap)
+
 
 ## GitHub Trophies 🏆:
 ![](https://github-profile-trophy.vercel.app/?username=iamrajharshit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
