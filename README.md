@@ -65,9 +65,10 @@
 ![Leetcode Statistics](https://leetcard.jacoblin.cool/iamrajharshit?theme=dark&ext=heatmap)
 
 
+<!---
 ## GitHub Trophies 🏆:
 ![](https://github-profile-trophy.vercel.app/?username=iamrajharshit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!---
+
 Shortcut drafts
 pandas icon: https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg
 
