@@ -52,22 +52,22 @@
 
 
 ## My Stats📈:
-![GitHub](http://github-readme-streak-stats.herokuapp.com?user=iamrajharshit&theme=dark&background=000000) ![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=iamrajharshit&theme=dark) 
+![GitHub](https://github-readme-stats.vercel.app/api?username=iamrajharshit&theme=dark) ![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=iamrajharshit&theme=dark) 
 <!--
 <div>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=iamrajharshit&theme=dark&background=000000"/>
-<!--    <img src="https://github-readme-stats.vercel.app/api?username=iamrajharshit&theme=dark"/> -->
+<!--    <img src=""/> -->
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajharshit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 -->
 
 
 
-
+<!--
 ## 📊 Getting Started with LeetCode :
 
 
-<!--![Leetcode Statistics](https://leetcard.jacoblin.cool/iamrajharshit?theme=dark&ext=heatmap)-->
+![Leetcode Statistics](https://leetcard.jacoblin.cool/iamrajharshit?theme=dark&ext=heatmap)-->
 
 
 <!---
