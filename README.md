@@ -52,7 +52,7 @@
 
 
 ## My Stats📈:
-![GitHub](https://github-readme-stats.vercel.app/api?username=iamrajharshit&theme=dark) ![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=iamrajharshit&theme=dark) 
+![GitHub](https://github-readme-stats.vercel.app/api?username=iamrajharshit&theme=radical&layout=compact)![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=iamrajharshit&theme=dark&layout=compact) 
 <!--
 <div>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=iamrajharshit&theme=dark&background=000000"/>
