@@ -60,9 +60,9 @@
 
 
 ## 📊 Getting Started with LeetCode :
-<!--
-![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=iamrajharshit&theme=dark) -->
-![Leetcode Statistics](https://leetcard.jacoblin.cool/iamrajharshit?theme=dark&ext=heatmap)
+
+![Leetcode Statistics](https://stats.justsong.cn/api/leetcode/?username=iamrajharshit&theme=dark) 
+<!--![Leetcode Statistics](https://leetcard.jacoblin.cool/iamrajharshit?theme=dark&ext=heatmap)-->
 
 
 <!---
